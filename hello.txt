@@ -1,6 +1,6 @@
 Hello Git!!!
 Hello Git!!!
-Hello Git!!!
+Hello Git!!!  Hello Java!!!
 Hello Git!!!
 Hello Git!!!
 Hello Git!!!
