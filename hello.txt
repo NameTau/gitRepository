@@ -1,7 +1,7 @@
 Hello Git!!!
 Hello Git!!!
 Hello Git!!!  Hello Java!!!
-Hello Git!!!
+Hello Git!!!  1.0.1
 Hello Git!!!
 Hello Git!!!
 Hello Git!!!
